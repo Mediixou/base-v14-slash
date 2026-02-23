@@ -50,14 +50,6 @@ module.exports = {
 
 ---
 
-## 🧩 Commandes Slash
-
-Pour enregistrer les commandes Slash :
-
-```sh
-node .
-```
-
 ---
 
 ## ✅ Lancement du bot
