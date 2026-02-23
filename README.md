@@ -50,8 +50,6 @@ module.exports = {
 
 ---
 
----
-
 ## ✅ Lancement du bot
 
 ```sh
